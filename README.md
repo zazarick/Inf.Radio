@@ -2,7 +2,7 @@
 
 **Автор:** zazarick  
 **Версия:** 1.0.0  
-**Для SCP: Secret Laboratory**
+**Для SCP: Secret Laboratory 14.1 (EXILED)**
 
 ## Описание
 
